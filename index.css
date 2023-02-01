@@ -221,8 +221,6 @@ nav {
 .card {
   width: 300px;
   background-color: #ddf0f8;
-  padding: 10px;
-  margin: 10px;
 }
 
 .card .image {
@@ -250,6 +248,7 @@ nav {
   margin-top: 10px;
   display: flex;
   align-items: center;
+  padding-left: 10px;
 }
 
 .card-bottom div {
@@ -374,7 +373,7 @@ nav {
 
 .team-wrap {
   padding: 100px 0px;
-  background-color: #ecf7fc;
+  background-color: #eff4f6;
 }
 
 .team-hero {
@@ -427,7 +426,7 @@ nav {
 /*clients*/
 
 .clients-wrap {
-  background-color: #474544;
+  background-color: #202020;
   padding: 80px 0px;
 }
 
@@ -711,8 +710,6 @@ form button {
   .card {
     width: 300px;
     background-color: #ddf0f8;
-    padding: 10px;
-    margin: 10px;
   }
 
   .card .image {
@@ -740,6 +737,7 @@ form button {
     margin-top: 10px;
     display: flex;
     align-items: center;
+    padding-left: 10px;
   }
 
   .card-bottom div {
@@ -863,7 +861,7 @@ form button {
 
   .team-wrap {
     padding: 100px 0px;
-    background-color: #ecf7fc;
+    background-color: #eff4f6;
   }
 
   .team-hero {
@@ -918,7 +916,6 @@ form button {
   /*clients*/
 
   .clients-wrap {
-    background-color: #474544;
     padding: 80px 0px;
   }
 
@@ -1204,8 +1201,6 @@ form button {
   .card {
     width: 300px;
     background-color: #ddf0f8;
-    padding: 10px;
-    margin: 10px;
   }
 
   .card .image {
@@ -1233,6 +1228,7 @@ form button {
     margin-top: 10px;
     display: flex;
     align-items: center;
+    padding-left: 10px;
   }
 
   .card-bottom div {
@@ -1359,7 +1355,7 @@ form button {
 
   .team-wrap {
     padding: 100px 0px;
-    background-color: #ecf7fc;
+    background-color: #eff4f6;
   }
 
   .team-hero {
@@ -1414,7 +1410,6 @@ form button {
   /*clients*/
 
   .clients-wrap {
-    background-color: #474544;
     padding: 50px 0px;
   }
 
@@ -1708,8 +1703,6 @@ form button {
   .card {
     width: 300px;
     background-color: #ddf0f8;
-    padding: 10px;
-    margin: 10px;
   }
 
   .card .image {
@@ -1737,6 +1730,7 @@ form button {
     margin-top: 10px;
     display: flex;
     align-items: center;
+    padding-left: 10px;
   }
 
   .card-bottom div {
@@ -1873,7 +1867,6 @@ form button {
 
   .team-wrap {
     padding: 50px 0px;
-    background-color: #ecf7fc;
   }
 
   .team-hero {
@@ -1928,7 +1921,6 @@ form button {
   /*clients*/
 
   .clients-wrap {
-    background-color: #474544;
     padding: 50px 0px;
   }
 
@@ -2220,8 +2212,6 @@ form button {
   .card {
     width: 300px;
     background-color: #ddf0f8;
-    padding: 10px;
-    margin: 10px;
   }
 
   .card .image {
@@ -2249,6 +2239,7 @@ form button {
     margin-top: 10px;
     display: flex;
     align-items: center;
+    padding-left: 10px;
   }
 
   .card-bottom div {
@@ -2385,7 +2376,6 @@ form button {
 
   .team-wrap {
     padding: 50px 0px;
-    background-color: #ecf7fc;
   }
 
   .team-hero {
@@ -2440,7 +2430,6 @@ form button {
   /*clients*/
 
   .clients-wrap {
-    background-color: #474544;
     padding: 50px 0px;
   }
 
